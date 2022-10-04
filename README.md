@@ -1,6 +1,6 @@
 # Meet&Eat
 ## Overview
-The program is a functional implementation in the `Vue.js` framework and `Goofle Firebase` database of a <b>social network</b> web application <b>based around food</b>, in which users can create and register different events and rate other users.
+The program is a functional implementation in the `Vue.js` framework and `Google Firebase` database of a <b>social network</b> web application <b>based around food</b>, in which users can create and register different events and rate other users.
 
 ### Authors
 - <b>Tommaso Brumani</b> (tommaso.brumani@via.dk)
